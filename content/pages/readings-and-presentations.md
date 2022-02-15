@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Readings and Presentations
 uid: e86f7726-dafc-ef30-ae7a-1809c5453706
 ---
@@ -106,7 +108,7 @@ Some irrational numbers
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Three times π2/6
+Three times π{{< sup "2" >}}/6
 {{< tdclose >}}
 
 {{< trclose >}}

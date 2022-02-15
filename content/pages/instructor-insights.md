@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 1086d9c3-0945-9428-2161-3cf655a4ab37
 ---
@@ -54,20 +56,6 @@ CI-M ![](/images/educator/icon-question-cim.png)
 ### Offered
 
 Every fall and spring semester
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![A classroom with four long tables spanning the classroom, chairs behind each table, and two sliding chalkboards at the front.]({{< resource_file 1f29f08e-5571-3c98-1933-9256fc5f3a62 >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Lecture
-    
-    18.304 is taught in a typical classroom with rows of seats and sliding chalkboards
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 

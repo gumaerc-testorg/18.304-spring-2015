@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: 7c47f351-10c6-d223-2792-06bc01cc1df5
 ---
@@ -12,4 +15,4 @@ This paper is a seminar paper that summarizes Francis Edward Su's paper "Rental 
 
 [Making Money from Fair Games: Examining the Borel-Cantelli Lemma (PDF)]({{< baseurl >}}/resources/mit18_304s15_project2) by Sammuel Cannon. Used with permission.  
 _Abstract_   
-In this paper we discuss and prove the Borel-Cantelli Lemma. We then show two interesting applications of the Borel-Cantelli Lemma. These include a method by which one can profit from a series of games that individually have an expected value of zero, defying intuition regarding linearity of expectation, as well as displaying that a sequence of 100100 straight coin flips of heads will occur with probability one if one flips a fair coin into infinity.
+In this paper we discuss and prove the Borel-Cantelli Lemma. We then show two interesting applications of the Borel-Cantelli Lemma. These include a method by which one can profit from a series of games that individually have an expected value of zero, defying intuition regarding linearity of expectation, as well as displaying that a sequence of 100{{< sup "100" >}} straight coin flips of heads will occur with probability one if one flips a fair coin into infinity.

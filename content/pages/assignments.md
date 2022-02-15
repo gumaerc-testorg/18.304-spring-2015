@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 52ed5162-c38f-fd5d-0dee-3a82287d3342
 ---
@@ -38,21 +41,21 @@ Short Paper
 *   Write a short (2 to 4 page) paper on the topic below. Papers must be written in [LaTeX](https://en.wikipedia.org/wiki/LaTeX).
 *   Prove the following theorem regarding asynchronous majority dynamics:
 
-**Theorem.** _Let G=(V, E) be a finite, undirected simple graph with odd degrees. Then, for any initial opinions and any update sequence, the size of the set {(u,t) | Xut_ __≠_ Xut-1} is at most |E|._
+**Theorem.** _Let G=(V, E) be a finite, undirected simple graph with odd degrees. Then, for any initial opinions and any update sequence, the size of the set {(u,t) | X{{< sup "u" >}}{{< sub "t" >}}_ __≠_ X{{< sup "u" >}}{{< sub "t-1" >}}} is at most |E|._
 
 *   The synchronous analogue of this theorem appears in "[Periodic Behaviour of Generalized Threshold Functions](http://dx.doi.org/10.1016/0012-365X(80)90121-1)." by E. Goles and J. Olivos, Discrete Mathematics, 1980.
 *   Paper outline:
     *   No need to define graphs.
     *   Define majority dynamics (asynchronous).
-    *   Define Lt.
+    *   Define L{{< sub "t" >}}.
     *   Prove the following:
     
-    **Lemma.** _Lt is non-increasing_.
+    **Lemma.** _L{{< sub "t" >}} is non-increasing_.
     
     *   Prove the theorem.
 *   Those who want more of a challenge can prove the following:
 
-**Theorem.** _Let G be a graph of bounded maximal degree, and such that the number of edges at distance r from some vertex w is bounded from above by a polynomial in r. Then there exists a C > 0 such that for any initial opinions and any update sequence, the total number of times that Xwt ≠ Xwt-1 is at most C._
+**Theorem.** _Let G be a graph of bounded maximal degree, and such that the number of edges at distance r from some vertex w is bounded from above by a polynomial in r. Then there exists a C > 0 such that for any initial opinions and any update sequence, the total number of times that X{{< sup "w" >}}{{< sub "t" >}} ≠ X{{< sup "w" >}}{{< sub "t-1" >}} is at most C._
 
 Very Short Paper
 ----------------
