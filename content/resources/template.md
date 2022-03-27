@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 52ed5162-c38f-fd5d-0dee-3a82287d3342
 resourcetype: Other
 title: LaTeX template
 uid: 95022bae-41b2-b771-f3cf-8bccd4d275ab

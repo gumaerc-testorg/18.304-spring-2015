@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 7c47f351-10c6-d223-2792-06bc01cc1df5
 resourcetype: Document
 title: Undergraduate Seminar in Discrete Mathematics, Sperner's Lemma and Fair Division
   Problems
