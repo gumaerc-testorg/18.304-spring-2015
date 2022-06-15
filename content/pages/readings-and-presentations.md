@@ -1,9 +1,15 @@
 ---
 content_type: page
+description: This section provides information on the course textbook and student
+  presentations.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Readings and Presentations
 uid: e86f7726-dafc-ef30-ae7a-1809c5453706
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Class readings included both a textbook and approved papers from recent mathematical literature. In each class, two students were each assigned / asked to give a 35-minute presentation based on a chapter in the textbook or on one of the papers. With 16 students in the class, each student gave three presentations throughout the term.
