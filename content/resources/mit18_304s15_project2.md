@@ -6,6 +6,7 @@ file: /courses/18-304-undergraduate-seminar-in-discrete-mathematics-spring-2015/
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 Undergraduate Seminar in Discrete Mathematics, student project by Sammuel Cannon
-

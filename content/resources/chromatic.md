@@ -6,6 +6,7 @@ file: /courses/18-304-undergraduate-seminar-in-discrete-mathematics-spring-2015/
 file_type: text/x-tex
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 LaTeX template supporting an assignment to write a proof of the six color theorem,
-
