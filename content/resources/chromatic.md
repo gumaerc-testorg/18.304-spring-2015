@@ -3,6 +3,7 @@ content_type: resource
 description: LaTeX template supporting an assignment to write a proof of the six color
   theorem,
 file: /courses/18-304-undergraduate-seminar-in-discrete-mathematics-spring-2015/df05e8a04440b08caf1f5a887fd2d3e4_chromatic.tex
+file_size: 2516
 file_type: text/x-tex
 learning_resource_types:
 - Assignments
