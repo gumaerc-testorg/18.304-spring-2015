@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: LaTeX template supporting an assignment to write a journal article.
-file: /courses/18-304-undergraduate-seminar-in-discrete-mathematics-spring-2015/95022bae41b2b771f3cf8bccd4d275ab_template.tex
+file: /ol-ocw-studio-app/courses/18-304-undergraduate-seminar-in-discrete-mathematics-spring-2015/95022bae41b2b771f3cf8bccd4d275ab_template.tex
 file_size: 4051
 file_type: text/x-tex
 learning_resource_types:
