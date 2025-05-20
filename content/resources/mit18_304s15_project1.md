@@ -2,7 +2,7 @@
 content_type: resource
 description: Undergraduate Seminar in Discrete Mathematics, student project by Suthee
   Ruangwise.
-file: /ol-ocw-studio-app/courses/18-304-undergraduate-seminar-in-discrete-mathematics-spring-2015/4ba52e9fdecead1d55c206ef4abb0ed3_MIT18_304S15_project1.pdf
+file: /courses/18-304-undergraduate-seminar-in-discrete-mathematics-spring-2015/4ba52e9fdecead1d55c206ef4abb0ed3_MIT18_304S15_project1.pdf
 file_size: 1394793
 file_type: application/pdf
 learning_resource_types:

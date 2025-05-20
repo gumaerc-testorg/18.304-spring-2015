@@ -2,7 +2,7 @@
 content_type: resource
 description: Undergraduate Seminar in Discrete Mathematics, student project by Sammuel
   Cannon
-file: /ol-ocw-studio-app/courses/18-304-undergraduate-seminar-in-discrete-mathematics-spring-2015/2dc1c9e37d402c000b628ee85e2228d1_MIT18_304S15_project2.pdf
+file: /courses/18-304-undergraduate-seminar-in-discrete-mathematics-spring-2015/2dc1c9e37d402c000b628ee85e2228d1_MIT18_304S15_project2.pdf
 file_size: 320652
 file_type: application/pdf
 learning_resource_types:
