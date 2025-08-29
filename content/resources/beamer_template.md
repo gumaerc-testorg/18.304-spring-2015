@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Template for creating slide presentations using LaTeX.
-file: /courses/18-304-undergraduate-seminar-in-discrete-mathematics-spring-2015/6a63c85a30667dae3dce4da66ce13e6a_beamer_template.tex
+file: /ol-ocw-studio-app/courses/18-304-undergraduate-seminar-in-discrete-mathematics-spring-2015/6a63c85a30667dae3dce4da66ce13e6a_beamer_template.tex
 file_size: 3626
 file_type: text/x-tex
 learning_resource_types:
