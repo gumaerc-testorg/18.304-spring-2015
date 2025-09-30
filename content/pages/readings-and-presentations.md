@@ -16,7 +16,7 @@ Class readings included both a textbook and approved papers from recent mathemat
 
 The textbook chapter titles are listed below, since most of the student presentations were based upon the text:
 
-Aigner, Martin, Günter M. Ziegler, and Karl Heinrich Hofmann. _Proofs from THE BOOK_. Springer, 2014. ISBN: 9783662442043. \[Preview with [Google books](http://books.google.com/books?id=2iI9BAAAQBAJ&printsec=frontcover)\]
+Aigner, Martin, Günter M. Ziegler, and Karl Heinrich Hofmann. _Proofs from THE BOOK_. Springer, 2014. ISBN: 9783662442043. \[Preview with {{% resource_link "35e93144-16ed-4eee-925c-f98ae100463e" "Google books" %}}\]
 
 {{< tableopen >}}
 {{< theadopen >}}
