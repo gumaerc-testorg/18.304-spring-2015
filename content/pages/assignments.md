@@ -34,7 +34,7 @@ Three 35 Minute Lectures
 *   Talk slowly; the bottleneck of a talk is not how fast you can speak, but how fast the audience can understand. Plan to have some spare time to answer questions, make mistakes etc. This will also help you be more relaxed.
 *   Slide shows:
     1.  Don't put more than 4 lines on each slide,
-    2.  consider using [LaTeX _beamer_](https://en.wikipedia.org/wiki/Beamer_%28LaTeX%29) rather than WYSIWYG software like PowerPoint (a {{% resource_link 6a63c85a-3066-7dae-3dce-4da66ce13e6a "LaTeX beamer template (TEX)" %}} is available) 
+    2.  consider using {{% resource_link "4717a2cb-7f63-4b30-9713-77e81e26c226" "LaTeX _beamer_" %}} rather than WYSIWYG software like PowerPoint (a {{% resource_link 6a63c85a-3066-7dae-3dce-4da66ce13e6a "LaTeX beamer template (TEX)" %}} is available) 
     3.  give the audience time to read each slide, and
     4.  use figures!
 *   Also, come 10 minutes before your lecture to make sure your computer connects properly to the projector.
@@ -44,12 +44,12 @@ Students are strongly encouraged to meet the instructor while preparing their ta
 Short Paper
 -----------
 
-*   Write a short (2 to 4 page) paper on the topic below. Papers must be written in [LaTeX](https://en.wikipedia.org/wiki/LaTeX).
+*   Write a short (2 to 4 page) paper on the topic below. Papers must be written in {{% resource_link "258c2d5f-8d0c-4c08-a809-aee4a711f624" "LaTeX" %}}.
 *   Prove the following theorem regarding asynchronous majority dynamics:
 
 **Theorem.** _Let G=(V, E) be a finite, undirected simple graph with odd degrees. Then, for any initial opinions and any update sequence, the size of the set {(u,t) | X{{< sup "u" >}}{{< sub "t" >}}_ __≠_ X{{< sup "u" >}}{{< sub "t-1" >}}} is at most |E|._
 
-*   The synchronous analogue of this theorem appears in "[Periodic Behaviour of Generalized Threshold Functions](http://dx.doi.org/10.1016/0012-365X(80)90121-1)." by E. Goles and J. Olivos, Discrete Mathematics, 1980.
+*   The synchronous analogue of this theorem appears in "{{% resource_link "efa61a92-6c03-47c2-a56c-74387184c9bf" "Periodic Behaviour of Generalized Threshold Functions" %}}." by E. Goles and J. Olivos, Discrete Mathematics, 1980.
 *   Paper outline:
     *   No need to define graphs.
     *   Define majority dynamics (asynchronous).
@@ -75,5 +75,5 @@ Final Paper
 
 *   Write a final paper on the topic of the last talk. This will include handing in a paper outline, a first draft, a second draft (if necessary) and a final draft. Papers must be written in LaTeX.
 *   The paper should be 10 or more pages long, including about 5 or 6 pages of proofs.
-*   Papers must be written in [LaTeX](https://en.wikipedia.org/wiki/LaTeX) and a {{% resource_link 95022bae-41b2-b771-f3cf-8bccd4d275ab "LaTeX template (TEX)" %}} is available. 
-*   Don't [plagiarize](https://www.youtube.com/watch?v=gXlfXirQF3A).
+*   Papers must be written in {{% resource_link "258c2d5f-8d0c-4c08-a809-aee4a711f624" "LaTeX" %}} and a {{% resource_link 95022bae-41b2-b771-f3cf-8bccd4d275ab "LaTeX template (TEX)" %}} is available. 
+*   Don't {{% resource_link "dff0c093-f593-4ff2-b29b-0fa77888e35d" "plagiarize" %}}.
