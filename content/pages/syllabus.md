@@ -34,7 +34,7 @@ Textbook
 --------
 
 Most student lectures will be given from this textbook:  
-Aigner, Martin, Günter M. Ziegler, and Karl Heinrich Hofmann. _Proofs from THE BOOK_. Springer, 2014. ISBN: 9783662442043. \[Preview with {{% resource_link "35e93144-16ed-4eee-925c-f98ae100463e" "Google Books" %}}\]
+Aigner, Martin, Günter M. Ziegler, and Karl Heinrich Hofmann. _Proofs from THE BOOK_. Springer, 2014. ISBN: 9783662442043. \[Preview with [Google Books](http://books.google.com/books?id=2iI9BAAAQBAJ&printsec=frontcover)\]
 
 Students may give other lectures, pending instructor approval.
 
@@ -52,7 +52,7 @@ Each student in the course is expected to do the following:
 Resources
 ---------
 
-In additional to the assistance you will receive from your peers and instructor, help with presenting and writing is available from the department's mathematical communication specialist. A lecturer in {{% resource_link "153ba36f-7e7f-46a4-8061-b8c3b6f30c15" "Writing, Rhetoric, and Professional Communication" %}} is also available to help you. General help with writing and presenting (not specific to mathematics) is available from {{% resource_link "f1eb3ce6-cbfa-411b-968b-04c7d417beee" "MIT's Writing Center" %}}. \[**Note**: Not available to OCW users.\]
+In additional to the assistance you will receive from your peers and instructor, help with presenting and writing is available from the department's mathematical communication specialist. A lecturer in [Writing, Rhetoric, and Professional Communication](http://cmsw.mit.edu/education/writing-rhetoric-professional-communication/) is also available to help you. General help with writing and presenting (not specific to mathematics) is available from [MIT's Writing Center](http://cmsw.mit.edu/writing-and-communication-center/). \[**Note**: Not available to OCW users.\]
 
 Schedule
 --------
@@ -159,4 +159,4 @@ Collaboration
 
 Collaboration on preparing lectures is encouraged, as is the reading and deciphering of material. However, papers have to be written individually. Students are strongly discouraged to commit plagiarism. It is forbidden to copy any complete sentence from another source, including work submitted in past years or other courses. It is furthermore not acceptable to copy a proof, rewriting each line. A good strategy for writing a proof that appears elsewhere is to read and understand the source, and then write it from scratch the next day.
 
-Some guidelines of what is and isn't allowed are available from {{% resource_link "57b4abe5-6212-4f1e-81c3-38828ae3c6f2" "Math Comm" %}}, including {{% resource_link "2fc1cbbb-5437-4ce8-bb74-cc69b8eb64a6" "some examples" %}}.
+Some guidelines of what is and isn't allowed are available from [Math Comm](http://mathcomm.org/general-principles-of-communicating-math/use-of-sources/), including [some examples](http://mathcomm.org/folder/math-supplement-for-academic-integrity-handbook/).
